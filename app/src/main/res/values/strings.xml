@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name = "dummy_title">There has been an awakening in the force . . .</string>
+    <string name = "dummy_description">A description</string>
+</resources>
